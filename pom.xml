@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.khansaauliaa</groupId>
 	<artifactId>mkepl-CI-CD-deployment</artifactId>
-	<version>0.3.6</version>
+	<version>0.3.7</version>
 
 <dependencies>
   <dependency>

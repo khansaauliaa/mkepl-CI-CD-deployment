@@ -7,7 +7,7 @@
 
     <groupId>com.khansaauliaa</groupId>
     <artifactId>mkepl-CI-CD-deployment</artifactId>
-    <version>0.3.8</version>
+    <version>0.3.9</version>
 
     <dependencies>
         <dependency>
